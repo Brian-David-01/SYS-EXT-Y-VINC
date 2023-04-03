@@ -81,7 +81,8 @@
                 </div>
                 <div class="col-4 text-end">
                   <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                    <i class="fas fa-users text-lg opacity-10" aria-hidden="true"></i>
+                  <i class="las la-users" style="font-size:1.8em;"></i>
+                    <!-- <i class="fas fa-users text-lg opacity-10" aria-hidden="true"></i> -->
                   </div>
                 </div>
               </div>
@@ -102,7 +103,8 @@
                 </div>
                 <div class="col-4 text-end">
                   <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                    <i class="fas fa-user-check text-lg opacity-10" aria-hidden="true"></i>
+                  <i class="las la-user-check" style="font-size:1.8em;"></i>
+                    <!-- <i class="fas fa-user-check text-lg opacity-10" aria-hidden="true"></i> -->
                   </div>
                 </div>
               </div>
@@ -123,7 +125,8 @@
                 </div>
                 <div class="col-4 text-end">
                   <div class="icon icon-shape bg-gradient-primary shadow text-center border-radius-md">
-                    <i class="fas fa-user-slash text-lg opacity-10" aria-hidden="true"></i>
+                  <i class="las la-user-times" style="font-size: 1.8em;"></i>
+                    <!-- <i class="fas fa-user-slash text-lg opacity-10" aria-hidden="true"></i> -->
                   </div>
                 </div>
               </div>
@@ -141,8 +144,8 @@
                   <canvas id="chart-bars" class="chart-canvas" height="170"></canvas>
                 </div>
               </div>
-              <h6 class="ms-2 mt-4 mb-0"> Active Users </h6>
-              <p class="text-sm ms-2"> (<span class="font-weight-bolder">+23%</span>) than last week </p>
+              <h6 class="ms-2 mt-4 mb-0"> Alumnos dados de alta </h6>
+              <!-- <p class="text-sm ms-2"> (<span class="font-weight-bolder">+23%</span>) than last week </p> -->
               <div class="container border-radius-lg">
                 <div class="row">
                   <div class="col-3 py-3 ps-0">
@@ -162,9 +165,9 @@
                           </g>
                         </svg>
                       </div>
-                      <p class="text-xs mt-1 mb-0 font-weight-bold">Users</p>
+                      <p class="text-xs mt-1 mb-0 font-weight-bold"></p>
                     </div>
-                    <h4 class="font-weight-bolder">36K</h4>
+                    <h4 class="font-weight-bolder">360</h4>
                     <div class="progress w-75">
                       <div class="progress-bar bg-dark w-60" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -188,9 +191,9 @@
                           </g>
                         </svg>
                       </div>
-                      <p class="text-xs mt-1 mb-0 font-weight-bold">Clicks</p>
+                      <p class="text-xs mt-1 mb-0 font-weight-bold"></p>
                     </div>
-                    <h4 class="font-weight-bolder">2m</h4>
+                    <h4 class="font-weight-bolder">200</h4>
                     <div class="progress w-75">
                       <div class="progress-bar bg-dark w-90" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -212,9 +215,9 @@
                           </g>
                         </svg>
                       </div>
-                      <p class="text-xs mt-1 mb-0 font-weight-bold">Sales</p>
+                      <p class="text-xs mt-1 mb-0 font-weight-bold"></p>
                     </div>
-                    <h4 class="font-weight-bolder">435$</h4>
+                    <h4 class="font-weight-bolder">435</h4>
                     <div class="progress w-75">
                       <div class="progress-bar bg-dark w-30" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
@@ -237,7 +240,7 @@
                           </g>
                         </svg>
                       </div>
-                      <p class="text-xs mt-1 mb-0 font-weight-bold">Items</p>
+                      <p class="text-xs mt-1 mb-0 font-weight-bold"></p>
                     </div>
                     <h4 class="font-weight-bolder">43</h4>
                     <div class="progress w-75">
